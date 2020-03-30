@@ -1,0 +1,28 @@
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\Buyuk_Kucuk_Kontrol.exe
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\Buyuk_Kucuk_Kontrol.pdb
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.Properties.Resources.resources
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.csproj.GenerateResource.Cache
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.exe
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.pdb
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.FrmGiris.resources
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.exe.licenses
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.FrmKontrol.resources
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\Properties\AssemblyInfo.cs
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.BonusSkins.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.Data.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.Utils.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraBars.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraEditors.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraGrid.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraLayout.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.dll
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraLayout.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.Utils.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraGrid.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraBars.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.Data.v10.2.xml
+E:\CSharp Denemeler\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\bin\Debug\DevExpress.XtraEditors.v10.2.xml
+C:\Documents and Settings\Administrator\Desktop\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.exe
+C:\Documents and Settings\Administrator\Desktop\Buyuk_Kucuk_Kontrol\Buyuk_Kucuk_Kontrol\obj\Debug\Buyuk_Kucuk_Kontrol.pdb
